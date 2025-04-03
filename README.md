@@ -39,6 +39,7 @@ It allows users to sign up, log in, and perform **CRUD operations** on employee 
 ### 1. Clone the repo
 
 git clone (https://github.com/Drasti23/101419828_comp3133_assignment2)
+
 cd Assignment2
 
 ### 2. Build and Run the Containers
@@ -70,7 +71,9 @@ docker-compose down
 
 ## 🙋‍♂️ Developed By
 Drasti Parikh
+
 101419828
+
 George Brown College — COMP3133 Full Stack Development II
 
 
