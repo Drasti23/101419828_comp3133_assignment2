@@ -68,6 +68,10 @@ docker-compose down
 
 - 🐳 Fully containerized with Docker (frontend + backend)
 
+## 🙋‍♂️ Developed By
+Drasti Parikh
+101419828
+George Brown College — COMP3133 Full Stack Development II
 
 
 
